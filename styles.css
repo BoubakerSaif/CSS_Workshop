@@ -1,0 +1,83 @@
+h1 {
+  color: blue;
+}
+
+* {
+  margin: 0;
+}
+
+/* Selectors */
+
+/* 1-- TagName */
+/* 2-- Class */
+
+.p1 {
+  color: green;
+}
+
+.p2 {
+  color: red;
+}
+
+/* 3-- By Id */
+
+#myp {
+  font-weight: bold;
+  color: blueviolet;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#myhtml {
+  color: darkmagenta;
+}
+
+h2 {
+  background-color: aquamarine;
+  color: chocolate;
+}
+
+/* Css Header */
+
+/* Css Hero */
+
+/* body {
+  background-image: url("https://wallpapers.com/images/hd/gta-5-michael-9frhnpcs1gczinvh.jpg");
+  height: 2000px;
+  background-repeat: no-repeat;
+} */
+
+/* div {
+  border-style: solid;
+  border-width: 3px;
+  border-color: blueviolet;
+  border-top-style: dotted;
+  border-bottom-style: dotted;
+  border-radius: 5px;
+} */
+
+#mydiv {
+  background-color: aquamarine;
+  /* margin-left: 25px;
+  margin-top: 80px;
+  margin-right: 80px;
+  margin-bottom: 50px; */
+  /* margin: 80px 80px 50px 25px; */
+  margin: 50px;
+  border: 2px red solid;
+  padding: 25px;
+}
+
+#parent {
+  background-color: burlywood;
+  height: 300px;
+}
+
+.child1 {
+  background-color: chartreuse;
+  display: inline;
+}
+
+.child2 {
+  background-color: aquamarine;
+  display: inline;
+}
